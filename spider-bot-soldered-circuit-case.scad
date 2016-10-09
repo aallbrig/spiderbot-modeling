@@ -7,8 +7,8 @@ translate([
   0
 ]) case();
 
-translate([
+/*translate([
   (caseWidth - protoBoardWidth) / 2,
   (caseLength - protoBoardLength) / 2,
   caseSecureHoleConnectionBaseHeight + caseHeight
-]) protoBoard();
+]) protoBoard();*/
